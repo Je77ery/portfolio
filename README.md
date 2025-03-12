@@ -62,7 +62,7 @@ This project demonstrates the potential of **AI in dermatology**, showcasing **a
 
 
 ## **Car Price Prediction using Machine Learning**
-#Code Link #PPT
+[View Work](https://drive.google.com/drive/folders/1_aj0TSgv-0GEkVuUpWuLM-Br2KLzxn7R?usp=drive_link)
 
 #### **Project Overview**  
 This project focuses on building a **machine learning model** to predict **car prices** based on various features such as **mileage, condition, and specifications**. The dataset was sourced from **Auto Trader**, and an **exploratory data analysis (EDA)** was conducted to uncover insights before model training.
@@ -88,7 +88,7 @@ This project demonstrates expertise in **data preprocessing, feature engineering
 
 
 ### **British Airways Customer Review Analysis**  
-#Code Link #PPT
+[View Work](https://drive.google.com/drive/folders/1AZw-MTh51grV-R_R2glvKn1bdLpSx4Mb?usp=drive_link)
 
 #### **Project Overview**  
 This project focuses on analyzing customer reviews for British Airways to identify key sentiments and trends. The analysis helps understand customer satisfaction levels and areas for improvement.
@@ -114,7 +114,7 @@ This project focuses on analyzing customer reviews for British Airways to identi
 
 
 ### **Sprocket Central Customer Analytics**  
-#Code Link #PPT
+[View Work](https://drive.google.com/drive/folders/1udroDtrQThVV9w0ZWDp8dNgMKJohet8Q?usp=drive_link)
 
 #### **Project Overview**  
 This project focuses on analyzing customer data for Sprocket Central to enhance marketing and sales strategies. The goal is to identify high-value customers and optimize engagement strategies.  
@@ -141,7 +141,7 @@ This project focuses on analyzing customer data for Sprocket Central to enhance 
 
 
 ### **Bank Management System (FCMB Mobile App Simulation)**  
-
+[View Code](https://drive.google.com/file/d/1b5MjkpEbumghITtav0nax3pTUiv7RA_t/view?usp=drive_link)
 ####  **Project Overview**  
 This project is a simulation of a **banking system** using **Object-Oriented Programming (OOP)** principles in Python. It allows customers to perform basic banking operations such as checking their balance, making withdrawals, deposits, and transferring funds between accounts. The system interacts with external text files to simulate a database for storing **account information** and **transaction history**.  
 
@@ -215,8 +215,7 @@ The **FCMB Mobile App Simulation** demonstrates a practical implementation of ba
 
 
 ### **Traffic Light Simulation Using Tkinter**
-
-
+[View Code](https://drive.google.com/file/d/12yDQqOXny3ZyNAqFn4Y9WpfEpyOc3hdb/view?usp=drive_link)
 
 ### **Project Overview**  
 This project is a **GUI-based Traffic Light simulation** built using Python's **Tkinter** module. The application visually represents a traffic light system where users can switch between **red, yellow, and green** lights using corresponding radio buttons.
@@ -302,7 +301,7 @@ This **Traffic Light Simulation** is a practical demonstration of **Object-Orien
 The design is extensible and can be enhanced with **timing mechanisms** for automated light transitions or additional traffic system simulations.
 
 ### **Vending Machine Management System**  
-
+[View Code](https://drive.google.com/file/d/16CxD6pRt0EFez_oYgYfa_proItVvqtTI/view?usp=drive_link)
 
 ### **Project Overview**  
 This project is a **Python-based Vending Machine System** using the **Pandas** library for data manipulation and **input/output interactions** for user interface. It supports both **admin** and **customer functionalities**, including managing stock and purchasing products.
