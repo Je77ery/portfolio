@@ -44,7 +44,7 @@ Mechanical Engineering, BSc
 ### Projects
 
 ## **Deep Learning for Skin Lesion Classification**
-#Code Link #PPT
+[View Work](https://drive.google.com/drive/folders/1FVo2_BC12-zKbi_t7rWr5ZZEJoSHvTMo?usp=drive_link)
 
 #### **Project Overview** 
 This project leverages **deep learning** to classify skin lesions, aiding in **early melanoma detection**. Using **ResNet-50**, the model distinguishes between multiple skin lesion types with **high accuracy**. 
